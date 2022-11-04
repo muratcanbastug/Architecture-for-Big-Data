@@ -1,4 +1,7 @@
 # Architectures-for-Big-Data-Assignment 1
+Murat Can Bastug
+Gokce Unal
+
 
 ![Çalışma Yüzeyi 6@100x-8](https://user-images.githubusercontent.com/51405534/199984982-c4ef9b49-938c-4c43-a5ec-9cc48eb13097.png) 
 
